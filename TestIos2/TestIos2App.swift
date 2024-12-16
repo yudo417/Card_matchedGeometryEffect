@@ -11,7 +11,7 @@ import SwiftUI
 struct TestIos2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            test6(selected: nil)
         }
     }
 }
